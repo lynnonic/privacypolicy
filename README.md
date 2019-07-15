@@ -21,3 +21,8 @@ Our third party partners and their privacy policies are as follows:
 - [Unity analytics (optional)](https://unity3d.com/ru/legal/privacy-policy)
 
 This app does not use Advertising Identifier, and any information obtained through the use of the Advertising Identifier, in any way other than for limited analytics purposes (to provide a better user experience).
+
+
+**Policy Updates**
+
+This Policy may change from time to time. The most current version of our Privacy Policy can be found on [Privacy Policy page](https://lynnonic.github.io/privacypolicy/).
